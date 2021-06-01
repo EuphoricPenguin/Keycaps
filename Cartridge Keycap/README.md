@@ -1,5 +1,5 @@
 
-Project file is for FreeCAD.
+Project file is for FreeCAD. I used some unneeded shape binders that are still present. Removing them is my next goal, after tweaking dimensions to print properly on my assortment of machines.
 
 14mm\*10.5mm is the size of the front sticker.
 
