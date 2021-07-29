@@ -1,6 +1,6 @@
 <img src="./Cartridge-Keycap-Logo.png" width="200" height="200" />
 
-This keycap design mimics the original Game Boy's cartridge design, and was directly inspired by [u/BlueBomberFox](https://www.reddit.com/user/bluebomberfox). The design closely follows that of a R1 cherry profile keycap, and should have no problems fitting on any MX-style switch. 
+This keycap design mimics the original Game Boy's cartridge design, and was directly inspired by [u/BlueBomberFox](https://www.reddit.com/user/bluebomberfox). The design closely follows that of a R1 OEM profile keycap, and shouldn't have any problems fitting on MX-style switches. 
 
 Cartridge Keycap V2 is a complete remodel of the Cartridge Keycap design in FreeCad 0.20. This version utilizes more sensible constraints and modeling practices while maintaining the same tree order as the original. It is, dimension for dimension, identical to the original project file.
 
