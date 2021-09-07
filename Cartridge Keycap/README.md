@@ -8,4 +8,4 @@ Everything present in this folder is distrubuted by EuphoricPenguin under the [C
 
 This keycap was created with multiple manufacturing methods in mind. Experimentation may be necessary to get the best results. If tolerances become an issue, changes to the project file may be needed.
 
-Should you add a front sticker to the keycap, `14mm*10.6mm` is the recommended size. For reference, the sticker is roughly 96.5% the size of the intentation both on the official cartridge and this keycap. The sticker may need some form of lamination if the keycap is to be subject to repeated use.
+Should you add a front sticker to the keycap, `14mm*10.6mm` is the recommended size. For reference, the sticker is roughly 96.5% the size of the indentation both on the official cartridge and this keycap. The sticker may need some form of lamination if the keycap is to be subject to repeated use.
